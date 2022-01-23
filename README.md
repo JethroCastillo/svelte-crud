@@ -2,12 +2,11 @@
 
 Esta aplicacion es un ejemplo simple de Svelte CRUD donde añadiremos y actualizaremos productos para una simple pagina ecomerce
 
-Solo se ah utilizado Svelte y Bootswatch en este ejercicio
-
+Solo se ah utilizado solamente Svelte y Bootswatch en este ejercicio
 
 Puedes ver Correr la aplicacion en este enlace:
 
-http
+https://admiring-hypatia-883861.netlify.app/
 
 ---
 
